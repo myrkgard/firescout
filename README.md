@@ -1,3 +1,4 @@
+[![Build status](https://github.com/myrkgard/firescout/actions/workflows/ci.yml/badge.svg)](https://github.com/myrkgard/firescout/actions/workflows/ci.yml)
 # Firescout
 
 General tier-0 support library. Provides...
